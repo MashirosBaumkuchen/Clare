@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/fav_murmur"
+        android:icon="@mipmap/fav_murmur"
+        android:title="My Fav."/>
+    <item
+        android:id="@+id/time_line"
+        android:icon="@mipmap/time_line"
+        android:title="Time Line"/>
+
+</menu>
