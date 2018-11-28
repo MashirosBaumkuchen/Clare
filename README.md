@@ -1,6 +1,6 @@
-###Mashiro
+### Clare
 
-* this is Mashiro, though the origin name is Clare.
+* app name is Mashiro, though the origin name is Clare. Inspir from WeChat.
 
 * so lucky that i can keep coding
 
